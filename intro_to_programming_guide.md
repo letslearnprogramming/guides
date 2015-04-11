@@ -7,7 +7,11 @@
 
 Feel free to skip to the curriculum section if you want to [get to the meaty part]. However, read on if you need some convincing as to why you should learn programming and/or how programming can improve your life. 
 
-Programming will become the international language of the future as technology  is becoming more embedded and integral in our lives. Something about being leaving behind like those who can't use computers in the 80's and 90's.  
+Programming is becoming more important in our lives as technology, from  smart phones to self-driving cars,  is becoming more embedded in our lives. Even people from the likes of President Obama and NYC Mayer Bloomberg to basketball star Chris Bosh are saying so. [link citations]
+
+It doesn't matter if you are interested in learning programming for the sake of learning, making your job easier, or looking to get a new job all together, progrmaming will make your life better.
+
+Plus, it has never been easier to learn programming. You can take free online, classes taught by universities like Harvard to experts like Peter Norvig. People have used programming to build websites and apps specifically to help you learn programming as well. There are also podcasts and ebooks that you can use to follow along as well.
 
 You can take programming to multiples scales from:
 1. Learning programming so you can be technologically literate so you can do your job better
