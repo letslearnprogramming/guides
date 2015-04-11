@@ -2,6 +2,7 @@
 
 ## Why Learn Programming ##
 > the why
+
 [![Why Learn Programming](http://img.youtube.com/vi/nKIu9yen5nc/0.jpg)](http://www.youtube.com/watch?v=nKIu9yen5nc)
 
 Feel free to skip to the curriculum section if you want to [get to the meaty part]. However, read on if you need some convincing as to why you should learn programming and/or how programming can improve your life. 
