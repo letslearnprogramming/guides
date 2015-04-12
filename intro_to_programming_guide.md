@@ -94,7 +94,7 @@ It is a very widely used language, with among the best software platforms for we
 	* Control Flow - If Else
 	* While Loops
 	* Guides
-		* 
+		
 - - - - - - -
 
 * Intemediate  Topics
@@ -102,6 +102,7 @@ It is a very widely used language, with among the best software platforms for we
 	* Classes
 	* Object Oriented Programming
 	* Inheritance, Polymorphism
+
 - - - - - - -
 
 * Advanced  Topics
@@ -109,6 +110,7 @@ It is a very widely used language, with among the best software platforms for we
 	* Algorithms
 
 - - - - - - 
+
 * Other Topics 
 	* Version Control
 	* Software Engineering?
