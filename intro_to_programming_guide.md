@@ -1,4 +1,32 @@
+<!-- MarkdownTOC -->
+
+- This Guide ##
+- Why Learn Programming ##
+- Why Python ##
+- Curriculum ##
+- What's Next? ##
+- FAQ ##
+- Advice ##
+
+<!-- /MarkdownTOC -->
+
+
 >Note to self: Tone should be light-hearted, almost like you are speaking to a friend and you feel like you are in a safe environment
+
+## This Guide ##
+> the who
+
+This guide is meant for everyone has little or no background in programming . As long as you have the will and drive, as well as understanding of high school math (like addition, division, algebra, etc.), you can learn and excel at programming.
+
+>the what
+This guide is a collection of online resources and books to teach you the basics and foundamental building blocks to programming. All of these resouces listed in this guide are free, and the for pay ones are explicitly marked with a $. 
+
+Once you have a strong grasp of the topics listed in this guide, you should have the foundamental programming skills to learn more challenging tasks and projects like building websites, mobile apps, or programs that can teach itself to recognize cat pictures. 
+
+>the why
+There are lots of online resources to learn programming, from online classes provided by Coursera and Udacity to interactive programming platforms like Codeacademy. However, many of these websites don't provide a clear path for students, who don't know where to start like you, to take their first steps on programming. 
+
+There many different options to learn to code online for free. I recommend starting with Codeacademy, joining the GitHub community, regularly reading coding related posts on Hacker News and taking one of the introductory computer science courses from an Ivy League-quality University. You’ll be surprised that coding isn’t nearly as difficult as you think and you can start creating and executing your own programs on your laptop or smartphone in a matter of weeks.
 
 ## Why Learn Programming ##
 > the why
@@ -39,19 +67,7 @@ Programming transforms your computer from a home appliance to a power tool. Whet
 [1] Why software is eating the world (http://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 [2] Examples http://blog.teamtreehouse.com/havent-started-programming-yet
 [3] http://www.bbc.co.uk/newsbeat/29051567
-## This Guide ##
-> the who
-This guide is meant for everyone has little or no background in programming . As long as you have the will and drive, as well as understanding of high school math (like addition, division, algebra, etc.), you can learn and excel at programming.
 
->the what
-This guide is a collection of online resources and books to teach you the basics and foundamental building blocks to programming. All of these resouces listed in this guide are free, and the for pay ones are explicitly marked with a $. 
-
-Once you have a strong grasp of the topics listed in this guide, you should have the foundamental programming skills to learn more challenging tasks and projects like building websites, mobile apps, or programs that can teach itself to recognize cat pictures. 
-
->the why
-There are lots of online resources to learn programming, from online classes provided by Coursera and Udacity to interactive programming platforms like Codeacademy. However, many of these websites don't provide a clear path for students, who don't know where to start like you, to take their first steps on programming. 
-
-There many different options to learn to code online for free. I recommend starting with Codeacademy, joining the GitHub community, regularly reading coding related posts on Hacker News and taking one of the introductory computer science courses from an Ivy League-quality University. You’ll be surprised that coding isn’t nearly as difficult as you think and you can start creating and executing your own programs on your laptop or smartphone in a matter of weeks.
 
 ## Why Python ##
 > This should be a small section
@@ -73,6 +89,7 @@ It is a very widely used language, with among the best software platforms for we
 ## Curriculum ##
 * Setting Up and Installation  
 	* Before you start, you need to install some programs to run your python programs. 
+	Delete everything below and link to learn python the hardway http://learnpythonthehardway.org/book/ex0.html
 	* If you are using Windows, you follow this guide to install python:
 		* http://stackoverflow.com/questions/21372637/installing-python-2-7-on-windows-8
 			* Remember this website Stackoverflow. It will be your best friend and teacher as you learn programming
@@ -89,25 +106,75 @@ It is a very widely used language, with among the best software platforms for we
 - - - - - - -
 
 * Basics  Topics
-	* Python Syntax
-	* Data Types 
-	* Control Flow - If Else
-	* While Loops
+Learning programming is like learning to talk in another language. First, you need to learn the words of the language, the grammatical structures for using these words, and then how translate your thoughts to words and grammars that you have learned.  And these following topics will teach you how to "talk" to your computer with code.
+
+	* What are variables
+	* The different data Types 
+		* Numbers - int, double, float
+		* Text - Strings
+		* Boolean - True/False
+	* Control Flow
+		* If - Else
+		* if - Else - Elseif
+	* Loops
+		* While loop
+		* For loop
 	* Guides
 		
 - - - - - - -
 
 * Intemediate  Topics
-	* Methods/Functions
-	* Classes
-	* Object Oriented Programming
-	* Inheritance, Polymorphism
+https://www.youtube.com/watch?v=SS-9y0H3Si8
+Objected oriented programming is a commonly used programming technique that will help you reuse, test, share, and build large, complex programs. 
+
+	* Some topics are:
+		* Methods/Functions
+		* Classes
+			* What is a class
+			* How to create a class
+			* How to use a class
+		* Objects/Instanecs
+			* What is an object/instance of a class? What does this mean?
+		* Advanced topics
+			* Encapsulation
+			* Polymorphism
+			* Abstraction
+			* Inheritance
 
 - - - - - - -
 
 * Advanced  Topics
+[https://www.youtube.com/watch?t=195&v=S-ws2W6UbPU]
+http://johncs.com/posts/spellchecker.htm
+examples
+Understanding data structures and computer algorithms will write program and solve problems in optimized ways. This is beneficial when you have write programs to process lots of data or compute complicated calculations calculations on data [citations]
+
+By applying the right algorithm or data structure to the right situation, you can potentially reduce the running time of your program from days to hours or reduce memory requirement from a few gigabytes to a few megabytes. 
+
+Topics:
+	* Big-O Notation
 	* Data Structures
+		* Arrays
+		* Lists
+		* Queues
+		* Stacks
+		* Binary Trees
+		* Maps
+		* Advanced Topics
+			* Graphs
+			* Priority Ques
+			* BloomFilters
 	* Algorithms
+		* Search Algorithms
+		* Divide and Conquer
+		* Greedy Algorithm
+		* Graph Algorithms
+			* Breadth First Search
+			* Depth First Search
+			* Shortest Path
+			* Minimum Spanning Tree
+			* Network Flow
+		* Dynamic Programming
 
 - - - - - - 
 
@@ -142,7 +209,7 @@ Boot camps are usuaully 8 to 12 months of intense programming trainning. They ar
 		* General Assembly
 		* Recurse Center (formerly Hacker School)
 
-### What's Next? ###
+## What's Next? ##
 * Fields of Research
 	* If you are interested in learning for the sake of learning
 	* Algorithms
@@ -159,9 +226,9 @@ Boot camps are usuaully 8 to 12 months of intense programming trainning. They ar
 		* Full-Stack
 	* Mobile Development
 
-### FAQ ###
+## FAQ ##
 
-### Advice ###
+## Advice ##
 - If you REALLY want to learn, commit to it. Don't give up, let it take however long it takes, be that months or years, and you will eventually have the skills you desire. At some point you'll want to give up and quit. Its up to you to keep going.
 - Learn the details early. If you skip over concepts without fully understanding them, then you will be lost once you learn more advanced things. Learn exactly how it works, or go back and re-learn if necessary.
 - When you get stuck on an issue, commit to solving the problem on your own for as long as you can. I've spent hours and hours on the silliest bugs, but every time it lead me to understand programming deeper. If you're still stuck, ask a friend or post on a forum or StackOverflow to resolve your issue. Every bug you fix on your own is a victory, so celebrate them as such.
